@@ -1,4 +1,7 @@
-https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true
+Ass-1:https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true
 
 
-https://www.hackerrank.com/challenges/write-a-function/problem
+Ass-2:https://www.hackerrank.com/challenges/write-a-function/problem
+
+Google form:
+https://forms.gle/U9YrUNkzs7SHF8Wu9
