@@ -1,0 +1,9 @@
+l=list(map(int,input().split()))
+coun=0
+ele=0
+for i in l:
+    if(l.count(i)>coun):
+        coun=l.count(i)
+        ele=i
+        l.remove(i)
+print(ele)
