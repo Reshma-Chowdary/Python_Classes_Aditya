@@ -1,0 +1,8 @@
+a=int(input())
+b=int(input())
+print('(BITWISE AND       )- a&b = ',a&b)
+print('(BITWISE OR        )- a|b = ',a|b)
+print('(BITWISE XOR       )- a^b = ',a^b)
+print('(BITWISE NOT       )- ~a = ',~a,',~b =',~b)
+print('(BITWISE LEFTSHIFT )- a<<1 = ',a<<1,',b<<1 =',b<<1)
+print('(BITWISE RIGHTSHIFT)- a>>1 = ',a>>1,',b>>1 =',b>>1 )
